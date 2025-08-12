@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>xysgh2764@qq.com</email>
+		<name>Xysgh</name>
+	</maintainer>
+	<longdescription>
+    Lamina is a procedural programming language focused on precise mathematical computation.
+    This ebuild will install the Lamina interpreter to run Lamina program files on your computer.
+    </longdescription>
+	<upstream>
+		<remote-id type="github">Lamina-dev/Lamina</remote-id>
+	</upstream>
+</pkgmetadata>
